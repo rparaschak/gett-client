@@ -1,6 +1,8 @@
-// Import here Polyfills if needed. Recommended core-js (npm i -D core-js)
-  // import "core-js/fn/array.find"
-  // ...
-export default class DummyClass {
+// Classes
+export * from './classes/GettClient';
 
-}
+// Interfaces
+export * from './interfaces/User';
+export * from './interfaces/ApiResponses';
+export * from './interfaces/File';
+export * from './interfaces/Share';
