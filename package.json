@@ -1,11 +1,11 @@
 {
-  "name": "gett-client-ts",
+  "name": "gett-client",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "main": "dist/gett-client-ts.umd.js",
-  "module": "dist/gett-client-ts.es5.js",
-  "typings": "dist/types/gett-client-ts.d.ts",
+  "main": "dist/gett-client.umd.js",
+  "module": "dist/gett-client.es5.js",
+  "typings": "dist/types/gett-client.d.ts",
   "files": [
     "dist"
   ],
